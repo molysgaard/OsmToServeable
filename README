@@ -1,0 +1,1 @@
+Tool to take data from an OSMOSIS POSTGRES SNAPSHOT database and make it into a format easily serveable by eg. WMS or WFS
